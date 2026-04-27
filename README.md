@@ -38,7 +38,7 @@ How to Run
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/your-username/customer-behavior-analysis.git
+git clone https://github.com/sajan-patil/customer-behavior-analysis.git
 cd customer-behavior-analysis
 
 Use Cases
